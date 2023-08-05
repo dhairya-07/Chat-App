@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <%- include('./partials/head') %>
+    <title>Chat Room</title>
+    <link rel="stylesheet" href="styles/styles.css" />
+  </head>
+  <body>
+    <div class="chat-container">
+      <div class="chat-header">
+        <h2>Chat Room</h2>
+      </div>
+      <div class="chat-people" id="chatPeople">
+        <!-- Number of people will be displayed here -->
+      </div>
+      <div class="chat-messages" id="chatMessages">
+        <!-- Chat messages will be displayed here -->
+      </div>
+      <div class="chat-input">
+        <input
+          type="text"
+          id="message"
+          placeholder="Type your message..."
+          onkeyup="handleTyping()"
+        />
+        <button id="sendBtn">Send</button>
+      </div>
+    </div>
+    <script src="/socket.io/socket.io.js"></script>
+
+    <script src="js/chat.js"></script>
+    <%- include('./partials/scripts') %>
+  </body>
+</html>
