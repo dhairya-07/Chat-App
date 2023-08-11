@@ -20,3 +20,14 @@ Go to the URL: http://localhost:8002
 
 # Give your name and the room you want to join
 ```
+
+# An example chat room with 3 people
+![Screenshot (59)](https://github.com/dhairya-07/Chat-App/assets/74531541/387b7ccb-e94e-4761-a2cd-5a64c5a70cad)
+
+# When a person leaves the remaining people in the room are notified
+![Screenshot (60)](https://github.com/dhairya-07/Chat-App/assets/74531541/241b1507-2070-45b6-9fa6-8b1b6c32e959)
+
+# Another room with a different room ID, hence messages are not leaked into other rooms
+![Screenshot (61)](https://github.com/dhairya-07/Chat-App/assets/74531541/1aa6ab78-7ec6-47d0-8880-f36210df9881)
+
+![Screenshot (62)](https://github.com/dhairya-07/Chat-App/assets/74531541/147f0639-0414-4edd-8c3e-107e812421be)
