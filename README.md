@@ -21,6 +21,9 @@ Go to the URL: http://localhost:8002
 # Give your name and the room you want to join
 ```
 
+# The entry page...
+![Screenshot (97)](https://github.com/dhairya-07/Chat-App/assets/74531541/d105f7f1-9a38-496f-8bbb-f13b172545ce)
+
 # An example chat room with 3 people
 ![Screenshot (59)](https://github.com/dhairya-07/Chat-App/assets/74531541/387b7ccb-e94e-4761-a2cd-5a64c5a70cad)
 
